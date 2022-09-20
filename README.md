@@ -2,7 +2,6 @@
 - 👀 I’m interested in mechanical Engineering, Progamming with C++, JavaScript, HTML and CSS
 - 🌱 I’m currently learning CSS and JavaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: ungernathan1@gmail.com
 
 <!---
 SwiftMasterss/SwiftMasterss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
